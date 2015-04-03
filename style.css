@@ -70,6 +70,10 @@ p {
     line-height: 130%;
 }
 
+.content h2 {
+    font-family: "banner";
+}
+
 .menu {
     position: absolute;
     left: -160px;
