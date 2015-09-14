@@ -236,3 +236,18 @@ a {
 .week7 {
     color: #C462B9;
 }
+
+/* ##### STAGE 2 ##### */
+.menu-items2 {
+    background-color: #FF66FF;
+}
+.menu-items2:hover {
+    background-color: #C14DC1;
+}
+.menu-items2:active {
+    background-color: #983D89;
+}
+
+.stage2 {
+    color: #FF66FF;
+}
